@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_Notes_App/static/css/main.0be7871e.css",
+    "main.js": "/React_Notes_App/static/js/main.8e1c86dc.js",
+    "static/media/fa-solid-900.ttf": "/React_Notes_App/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/React_Notes_App/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/React_Notes_App/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/React_Notes_App/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/notFound.png": "/React_Notes_App/static/media/notFound.a167360d7e90a3513d0a.png",
+    "static/media/fa-regular-400.ttf": "/React_Notes_App/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/fa-regular-400.woff2": "/React_Notes_App/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/React_Notes_App/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/React_Notes_App/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/React_Notes_App/index.html",
+    "main.0be7871e.css.map": "/React_Notes_App/static/css/main.0be7871e.css.map",
+    "main.8e1c86dc.js.map": "/React_Notes_App/static/js/main.8e1c86dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be7871e.css",
+    "static/js/main.8e1c86dc.js"
+  ]
+}
